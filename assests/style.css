@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+.navbar {
+    background-color: #FFFFCC;
+    padding: 10px;
+    text-align: center;
+}
+
+.navbar h1 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #000000;
+    margin: 0;
+}
