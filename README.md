@@ -4,7 +4,6 @@
 
 For this week's challenge, we had the task to create a weather dashboard using third-party APIs! We will use the 5 Day Weather Forecast API to obtain city weather data for cities.
 
-
 ## User Story and Acceptance Criteria
 
 AS A traveler
@@ -24,10 +23,10 @@ THEN I am again presented with current and future conditions for that city
 
 ## Screenshot
 
-![Mock-Up Screenshot](./assets/images/demo.png)
+![Mock-Up Screenshot](./assests/images/demo.png)
 
 ## Deployed Application and Github Link
 
-Deployed App Link:
+Deployed App Link: 
 
-Github Page:
+Github Page: https://github.com/esanchez8k/challenge06-WebAPIs
